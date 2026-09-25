@@ -11,6 +11,6 @@
   "extensions.disabled": [
     "GitHub.copilot",
     "GitHub.copilot-chat"
-  ]
+  ],
   "python.defaultInterpreterPath": "python"
 }
